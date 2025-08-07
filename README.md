@@ -1,8 +1,5 @@
 # Number Match Game
 
-![Game Screenshot](screenshots/gameplay.gif) <!-- Replace with actual GIF -->  
-
-
 A challenging puzzle game where players match number tiles based on intuitive number rules. Built with **Flutter** and **Riverpod**, it offers a clean architecture and engaging gameplay across multiple levels.
 
 ---
