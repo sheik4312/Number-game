@@ -24,14 +24,24 @@ A challenging puzzle game where players match number tiles based on intuitive nu
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (>= 3.0.0)
 - Dart SDK (>= 2.17.0)
 
+---
 ### Installation
 
-```bash
-git clone https://github.com/sheik4312/number-game.git
-cd number-match-game
-flutter pub get
-flutter run
-```
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/sheik4312/number-game.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd number-game
+    ```
+
+3. Install dependencies and run the app:
+    ```bash
+    flutter pub get
+    flutter run
+    ```
 
 ---
 
