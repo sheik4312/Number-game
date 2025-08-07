@@ -109,35 +109,7 @@ lib/
 │       └── splash_logo.dart          # Splash screen logo animation
 │
 └── main.dart                         # Entry point of the Flutter app
-```txt
-lib/
-├── controllers/        # State management logic (GameController)
-│   └── game_controller.dart
-│
-├── models/             # Tile data model
-│   └── game_tile.dart
-│
-├── providers/          # Riverpod providers
-│   ├── game_providers.dart
-│   ├── level_providers.dart
-│   ├── splash_providers.dart
-│   └── timer_provider.dart
-│
-├── services/           # For future business logic separation
-│   └── (optional)
-│
-├── widgets/            # Reusable UI components
-│   ├── game/
-│   │   ├── grid/
-│   │   ├── tile/
-│   │   └── timer_display.dart
-│   ├── home/
-│   └── splash/
-│
-└── views/              # Main screen layouts
-    ├── game_screen.dart
-    ├── home_screen.dart
-    └── splash_screen.dart
+
 ```
 
 ---
