@@ -2,6 +2,7 @@
 
 ![Game Screenshot](screenshots/gameplay.gif) <!-- Replace with actual GIF -->  
 
+
 A challenging puzzle game where players match number tiles based on intuitive number rules. Built with **Flutter** and **Riverpod**, it offers a clean architecture and engaging gameplay across multiple levels.
 
 ---
@@ -26,7 +27,7 @@ A challenging puzzle game where players match number tiles based on intuitive nu
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/number-match-game.git
+git clone https://github.com/sheik4312/number-game.git
 cd number-match-game
 flutter pub get
 flutter run
@@ -164,26 +165,11 @@ lib/
 
 ## 📷 Screenshots
 
-Create a `screenshots/` folder and add:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2760f993-e9fe-457c-8bb2-a64365182bd4" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a1786711-eded-4217-9280-ced892eddbf7" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a1d901fe-b084-48f2-9130-d7615eff95c0" width="250"/>
+</div>
 
-- `gameplay.gif` (main screen recording)
-- `home-screen.png`
-- `level-select.png`
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to fork the repo, create a branch, and submit pull requests.  
-Before contributing, please open an issue to discuss major changes.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
 
 > Designed with ❤️ using Flutter.
