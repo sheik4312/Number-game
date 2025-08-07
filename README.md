@@ -26,8 +26,16 @@ A challenging puzzle game where players match number tiles based on intuitive nu
 ### Installation
 
 ```bash
-git clone https://github.com/sheik4312/Number-game.git
+Step 1: Clone the repository
+
+git clone https://github.com/sheik4312/number-game.git
+
+Step 2: Navigate into the project directory
+
 cd number-game
+
+Step 3: Install dependencies and run the app
+
 flutter pub get
 flutter run
 ```
