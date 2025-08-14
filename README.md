@@ -145,5 +145,3 @@ https://github.com/user-attachments/assets/07174f11-1fd4-440f-afe9-31ca95ab3417
 
 ---
 
-## 📜 License
-MIT License © 2025 Your Name
